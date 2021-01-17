@@ -1,2 +1,3 @@
 # nuoui
-react ui components
+
+基于 react 的 ui 库
