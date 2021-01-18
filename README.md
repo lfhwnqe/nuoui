@@ -1,3 +1,6 @@
-# nuoui
+# webpack 配置（上）
 
-基于 react 的 ui 库
+## 使用方法
+
+1. yarn install
+2. yarn start
